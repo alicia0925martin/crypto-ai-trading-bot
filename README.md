@@ -30,6 +30,7 @@
 
 ---
 
+
 ## Why liquidity matters
 
 Most crypto trading bots rely only on **price and technical indicators**. Professional traders, however, monitor **order book liquidity**, because price often moves toward zones where liquidity is concentrated—and away when that liquidity is swept.
